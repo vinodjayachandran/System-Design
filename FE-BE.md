@@ -1,5 +1,7 @@
 # System Design: How a React Frontend Communicates with a Spring Boot Backend on AWS
 
+![System Design Architecture](./assets/system-design-cover.png)
+
 > A practical guide to building a scalable, secure, and extensible web application architecture using AWS CloudFront, S3, ECS Fargate, and an Application Load Balancer.
 
 ---
