@@ -1,4 +1,4 @@
-# System Design: How a React Frontend Communicates with a Spring Boot Backend on AWS
+# System Design: How a Frontend Communicates with a Backend on AWS
 
 ![System Design Architecture](./assets/system-design-cover.png)
 
